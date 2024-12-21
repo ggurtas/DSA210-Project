@@ -11,7 +11,7 @@ The goal is to visualize and understand my content consumption.
 ## Dataset
 
 ### Source
-The dataset will be generated using my personal YouTube watch history.
+The dataset will be generated using my personal YouTube history.
 
 ### Structure
 The dataset will include the following informations:
